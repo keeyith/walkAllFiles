@@ -1,6 +1,6 @@
 # WalkAllFiles
 
-A handy go script that walks each directory recusrsively and prints out XML file information for each file.
+A handy go script that walks each directory recursively and prints out XML file information for each file.
 
 ## To Build
 go build walkAll.go
